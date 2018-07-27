@@ -2,7 +2,7 @@ require 'descriptive_statistics'
 
 def makeCDFs(col,total,filename)
     parts=filename.gsub(".csv","")
-    system("awk -F\"\t\" 'NR==1{next} {print $"+col.to_s+"}' "+filename+" | sort -g | uniq -c | awk '{print $2\"\t\"$1\"\t\"$1*100/"+total.to_s+"}' | awk 'NR==1{print \"numOfSyncs\toccurences\tperc\tcdf\"} {s=s+$3;print $1\"\t\"$2\"\t\"$3\"\t\"s}' > "+parts+"_cdf.csv")
+    system("awk -F\"\t\" '{print $"+col.to_s+"}' "+filename+" | sort -g | uniq -c | awk '{print $2\"\t\"$1\"\t\"$1*100/"+total.to_s+"}' | awk 'NR==1{print \"numOfSyncs\toccurences\tperc\tcdf\"} {s=s+$3;print $1\"\t\"$2\"\t\"$3\"\t\"s}' > "+parts+"_cdf.csv")
 end
 
 
@@ -41,3 +41,6 @@ puts "Mean EasyChina: "+mean(regional).to_s
 f1.close
 f2.close
 f3.close
+makeCDFs(1,20,"easyChinaResults_"+ARGV[0])
+makeCDFs(1,20,"easyPrivacyResults_"+ARGV[0])
+makeCDFs(1,20,"easyListResults_"+ARGV[0])
