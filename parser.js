@@ -36,7 +36,7 @@ puppeteer.launch().then(async browser => {
    // const browser = await puppeteer.launch();
     console.log("puppeteer launched")
     var fs = require('fs');
-    var content = fs.readFileSync("alexa10.txt",'utf8');//"alexa-top-1k.txt", 'utf8');
+    var content = fs.readFileSync("alexa.txt",'utf8');//"alexa-top-1k.txt", 'utf8');
     domains=content.split("\n")
     for (var i=0;i<domains.length;i++){
         var urls = [];
@@ -53,8 +53,8 @@ puppeteer.launch().then(async browser => {
             });
             await page.goto(domain);
             // DONE with parsing
-        matchTrace(urls, sitename, easyListclient, "EasyList")
-        matchTrace(urls, sitename, easyPrivacyclient, "EasyPrivacy")
+            matchTrace(urls, sitename, easyListclient, "EasyList")
+            matchTrace(urls, sitename, easyPrivacyclient, "EasyPrivacy")
             matchTrace(urls, sitename, easyChinaclient, "EasyChina")
        // }
     }

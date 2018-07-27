@@ -1,19 +1,19 @@
 Running http://google.com/
-List: EasyList Domain google.com/ TotalReqs: 19 blocked: 1
-List: EasyPrivacy Domain google.com/ TotalReqs: 19 blocked: 3
-List: EasyChina Domain google.com/ TotalReqs: 19 blocked: 0
+List: EasyList Domain google.com/ TotalReqs: 9 blocked: 0
+List: EasyPrivacy Domain google.com/ TotalReqs: 9 blocked: 1
+List: EasyChina Domain google.com/ TotalReqs: 9 blocked: 0
 Running http://facebook.com/
-List: EasyList Domain facebook.com/ TotalReqs: 35 blocked: 0
-List: EasyPrivacy Domain facebook.com/ TotalReqs: 35 blocked: 0
-List: EasyChina Domain facebook.com/ TotalReqs: 35 blocked: 0
+List: EasyList Domain facebook.com/ TotalReqs: 45 blocked: 1
+List: EasyPrivacy Domain facebook.com/ TotalReqs: 45 blocked: 2
+List: EasyChina Domain facebook.com/ TotalReqs: 45 blocked: 0
 Running http://youtube.com/
-List: EasyList Domain youtube.com/ TotalReqs: 49 blocked: 3
-List: EasyPrivacy Domain youtube.com/ TotalReqs: 49 blocked: 0
-List: EasyChina Domain youtube.com/ TotalReqs: 49 blocked: 0
+List: EasyList Domain youtube.com/ TotalReqs: 79 blocked: 3
+List: EasyPrivacy Domain youtube.com/ TotalReqs: 79 blocked: 1
+List: EasyChina Domain youtube.com/ TotalReqs: 79 blocked: 0
 Running http://yahoo.com/
-List: EasyList Domain yahoo.com/ TotalReqs: 41 blocked: 0
-List: EasyPrivacy Domain yahoo.com/ TotalReqs: 41 blocked: 1
-List: EasyChina Domain yahoo.com/ TotalReqs: 41 blocked: 0
+List: EasyList Domain yahoo.com/ TotalReqs: 11 blocked: 0
+List: EasyPrivacy Domain yahoo.com/ TotalReqs: 11 blocked: 0
+List: EasyChina Domain yahoo.com/ TotalReqs: 11 blocked: 0
 Running http://baidu.com/
 List: EasyList Domain baidu.com/ TotalReqs: 1 blocked: 0
 List: EasyPrivacy Domain baidu.com/ TotalReqs: 1 blocked: 0
@@ -27,14 +27,54 @@ List: EasyList Domain live.com/ TotalReqs: 20 blocked: 0
 List: EasyPrivacy Domain live.com/ TotalReqs: 20 blocked: 1
 List: EasyChina Domain live.com/ TotalReqs: 20 blocked: 1
 Running http://twitter.com/
-List: EasyList Domain twitter.com/ TotalReqs: 20 blocked: 0
-List: EasyPrivacy Domain twitter.com/ TotalReqs: 20 blocked: 0
-List: EasyChina Domain twitter.com/ TotalReqs: 20 blocked: 0
+List: EasyList Domain twitter.com/ TotalReqs: 16 blocked: 0
+List: EasyPrivacy Domain twitter.com/ TotalReqs: 16 blocked: 0
+List: EasyChina Domain twitter.com/ TotalReqs: 16 blocked: 0
 Running http://qq.com/
-List: EasyList Domain qq.com/ TotalReqs: 189 blocked: 4
-List: EasyPrivacy Domain qq.com/ TotalReqs: 189 blocked: 38
-List: EasyChina Domain qq.com/ TotalReqs: 189 blocked: 2
+List: EasyList Domain qq.com/ TotalReqs: 194 blocked: 4
+List: EasyPrivacy Domain qq.com/ TotalReqs: 194 blocked: 39
+List: EasyChina Domain qq.com/ TotalReqs: 194 blocked: 2
 Running http://amazon.com/
-List: EasyList Domain amazon.com/ TotalReqs: 218 blocked: 8
-List: EasyPrivacy Domain amazon.com/ TotalReqs: 218 blocked: 6
-List: EasyChina Domain amazon.com/ TotalReqs: 218 blocked: 3
+List: EasyList Domain amazon.com/ TotalReqs: 236 blocked: 8
+List: EasyPrivacy Domain amazon.com/ TotalReqs: 236 blocked: 6
+List: EasyChina Domain amazon.com/ TotalReqs: 236 blocked: 1
+Running http://blogspot.com/
+List: EasyList Domain blogspot.com/ TotalReqs: 189 blocked: 35
+List: EasyPrivacy Domain blogspot.com/ TotalReqs: 189 blocked: 26
+List: EasyChina Domain blogspot.com/ TotalReqs: 189 blocked: 3
+Running http://linkedin.com/
+List: EasyList Domain linkedin.com/ TotalReqs: 46 blocked: 6
+List: EasyPrivacy Domain linkedin.com/ TotalReqs: 46 blocked: 16
+List: EasyChina Domain linkedin.com/ TotalReqs: 46 blocked: 1
+Running http://taobao.com/
+List: EasyList Domain taobao.com/ TotalReqs: 102 blocked: 0
+List: EasyPrivacy Domain taobao.com/ TotalReqs: 102 blocked: 9
+List: EasyChina Domain taobao.com/ TotalReqs: 102 blocked: 0
+Running http://google.co.in/
+List: EasyList Domain google.co.in/ TotalReqs: 41 blocked: 1
+List: EasyPrivacy Domain google.co.in/ TotalReqs: 41 blocked: 12
+List: EasyChina Domain google.co.in/ TotalReqs: 41 blocked: 0
+Running http://yahoo.co.jp/
+List: EasyList Domain yahoo.co.jp/ TotalReqs: 78 blocked: 30
+List: EasyPrivacy Domain yahoo.co.jp/ TotalReqs: 78 blocked: 19
+List: EasyChina Domain yahoo.co.jp/ TotalReqs: 78 blocked: 0
+Running http://sina.com.cn/
+List: EasyList Domain sina.com.cn/ TotalReqs: 495 blocked: 17
+List: EasyPrivacy Domain sina.com.cn/ TotalReqs: 495 blocked: 118
+List: EasyChina Domain sina.com.cn/ TotalReqs: 495 blocked: 140
+Running http://msn.com/
+List: EasyList Domain msn.com/ TotalReqs: 19 blocked: 0
+List: EasyPrivacy Domain msn.com/ TotalReqs: 19 blocked: 1
+List: EasyChina Domain msn.com/ TotalReqs: 19 blocked: 0
+Running http://google.com.hk/
+List: EasyList Domain google.com.hk/ TotalReqs: 38 blocked: 1
+List: EasyPrivacy Domain google.com.hk/ TotalReqs: 38 blocked: 8
+List: EasyChina Domain google.com.hk/ TotalReqs: 38 blocked: 0
+Running http://google.de/
+List: EasyList Domain google.de/ TotalReqs: 19 blocked: 1
+List: EasyPrivacy Domain google.de/ TotalReqs: 19 blocked: 3
+List: EasyChina Domain google.de/ TotalReqs: 19 blocked: 0
+Running http://bing.com/
+List: EasyList Domain bing.com/ TotalReqs: 4 blocked: 0
+List: EasyPrivacy Domain bing.com/ TotalReqs: 4 blocked: 0
+List: EasyChina Domain bing.com/ TotalReqs: 4 blocked: 0

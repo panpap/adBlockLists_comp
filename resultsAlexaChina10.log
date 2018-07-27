@@ -1,24 +1,80 @@
 Running http://Baidu.com
-List: EasyList Domain Baidu.com TotalReqs: 13 blocked: 1
-List: EasyPrivacy Domain Baidu.com TotalReqs: 13 blocked: 1
+List: EasyList Domain Baidu.com TotalReqs: 13 blocked: 0
+List: EasyPrivacy Domain Baidu.com TotalReqs: 13 blocked: 2
 List: EasyChina Domain Baidu.com TotalReqs: 13 blocked: 0
 Running http://Qq.com
-List: EasyList Domain Qq.com TotalReqs: 315 blocked: 42
-List: EasyPrivacy Domain Qq.com TotalReqs: 315 blocked: 51
-List: EasyChina Domain Qq.com TotalReqs: 315 blocked: 3
+List: EasyList Domain Qq.com TotalReqs: 237 blocked: 4
+List: EasyPrivacy Domain Qq.com TotalReqs: 237 blocked: 39
+List: EasyChina Domain Qq.com TotalReqs: 237 blocked: 3
 Running http://Taobao.com
-List: EasyList Domain Taobao.com TotalReqs: 103 blocked: 0
-List: EasyPrivacy Domain Taobao.com TotalReqs: 103 blocked: 9
-List: EasyChina Domain Taobao.com TotalReqs: 103 blocked: 0
+List: EasyList Domain Taobao.com TotalReqs: 100 blocked: 0
+List: EasyPrivacy Domain Taobao.com TotalReqs: 100 blocked: 9
+List: EasyChina Domain Taobao.com TotalReqs: 100 blocked: 1
 Running http://Tmall.com
-List: EasyList Domain Tmall.com TotalReqs: 79 blocked: 0
-List: EasyPrivacy Domain Tmall.com TotalReqs: 79 blocked: 21
-List: EasyChina Domain Tmall.com TotalReqs: 79 blocked: 0
+List: EasyList Domain Tmall.com TotalReqs: 80 blocked: 0
+List: EasyPrivacy Domain Tmall.com TotalReqs: 80 blocked: 22
+List: EasyChina Domain Tmall.com TotalReqs: 80 blocked: 0
 Running http://Sohu.com
-List: EasyList Domain Sohu.com TotalReqs: 567 blocked: 91
-List: EasyPrivacy Domain Sohu.com TotalReqs: 567 blocked: 197
-List: EasyChina Domain Sohu.com TotalReqs: 567 blocked: 166
+List: EasyList Domain Sohu.com TotalReqs: 571 blocked: 90
+List: EasyPrivacy Domain Sohu.com TotalReqs: 571 blocked: 180
+List: EasyChina Domain Sohu.com TotalReqs: 571 blocked: 145
 Running http://Jd.com
 List: EasyList Domain Jd.com TotalReqs: 68 blocked: 0
-List: EasyPrivacy Domain Jd.com TotalReqs: 68 blocked: 17
+List: EasyPrivacy Domain Jd.com TotalReqs: 68 blocked: 19
 List: EasyChina Domain Jd.com TotalReqs: 68 blocked: 0
+Running http://Sina.com.cn
+List: EasyList Domain Sina.com.cn TotalReqs: 500 blocked: 17
+List: EasyPrivacy Domain Sina.com.cn TotalReqs: 500 blocked: 133
+List: EasyChina Domain Sina.com.cn TotalReqs: 500 blocked: 111
+Running http://Weibo.com
+List: EasyList Domain Weibo.com TotalReqs: 279 blocked: 89
+List: EasyPrivacy Domain Weibo.com TotalReqs: 279 blocked: 27
+List: EasyChina Domain Weibo.com TotalReqs: 279 blocked: 3
+Running http://360.cn
+List: EasyList Domain 360.cn TotalReqs: 158 blocked: 0
+List: EasyPrivacy Domain 360.cn TotalReqs: 158 blocked: 6
+List: EasyChina Domain 360.cn TotalReqs: 158 blocked: 0
+Running http://Login.tmall.com
+List: EasyList Domain Login.tmall.com TotalReqs: 61 blocked: 0
+List: EasyPrivacy Domain Login.tmall.com TotalReqs: 61 blocked: 8
+List: EasyChina Domain Login.tmall.com TotalReqs: 61 blocked: 0
+Running http://Google.com
+List: EasyList Domain Google.com TotalReqs: 24 blocked: 1
+List: EasyPrivacy Domain Google.com TotalReqs: 24 blocked: 4
+List: EasyChina Domain Google.com TotalReqs: 24 blocked: 0
+Running http://Youtube.com
+List: EasyList Domain Youtube.com TotalReqs: 71 blocked: 3
+List: EasyPrivacy Domain Youtube.com TotalReqs: 71 blocked: 5
+List: EasyChina Domain Youtube.com TotalReqs: 71 blocked: 0
+Running http://Csdn.net
+List: EasyList Domain Csdn.net TotalReqs: 193 blocked: 1
+List: EasyPrivacy Domain Csdn.net TotalReqs: 193 blocked: 13
+List: EasyChina Domain Csdn.net TotalReqs: 193 blocked: 0
+Running http://Alipay.com
+List: EasyList Domain Alipay.com TotalReqs: 22 blocked: 0
+List: EasyPrivacy Domain Alipay.com TotalReqs: 22 blocked: 4
+List: EasyChina Domain Alipay.com TotalReqs: 22 blocked: 0
+Running http://Pages.tmall.com
+List: EasyList Domain Pages.tmall.com TotalReqs: 37 blocked: 0
+List: EasyPrivacy Domain Pages.tmall.com TotalReqs: 37 blocked: 7
+List: EasyChina Domain Pages.tmall.com TotalReqs: 37 blocked: 0
+Running http://Google.com.hk
+List: EasyList Domain Google.com.hk TotalReqs: 22 blocked: 1
+List: EasyPrivacy Domain Google.com.hk TotalReqs: 22 blocked: 3
+List: EasyChina Domain Google.com.hk TotalReqs: 22 blocked: 0
+Running http://Bilibili.com 
+List: EasyList Domain Bilibili.com  TotalReqs: 136 blocked: 0
+List: EasyPrivacy Domain Bilibili.com  TotalReqs: 136 blocked: 25
+List: EasyChina Domain Bilibili.com  TotalReqs: 136 blocked: 0
+Running http://Hao123.com
+List: EasyList Domain Hao123.com TotalReqs: 160 blocked: 7
+List: EasyPrivacy Domain Hao123.com TotalReqs: 160 blocked: 24
+List: EasyChina Domain Hao123.com TotalReqs: 160 blocked: 16
+Running http://Soso.com
+List: EasyList Domain Soso.com TotalReqs: 19 blocked: 0
+List: EasyPrivacy Domain Soso.com TotalReqs: 19 blocked: 3
+List: EasyChina Domain Soso.com TotalReqs: 19 blocked: 0
+Running http://Detail.tmall.com
+List: EasyList Domain Detail.tmall.com TotalReqs: 42 blocked: 0
+List: EasyPrivacy Domain Detail.tmall.com TotalReqs: 42 blocked: 4
+List: EasyChina Domain Detail.tmall.com TotalReqs: 42 blocked: 0
