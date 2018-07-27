@@ -1,0 +1,40 @@
+Running http://google.com/
+List: EasyList Domain google.com/ TotalReqs: 19 blocked: 1
+List: EasyPrivacy Domain google.com/ TotalReqs: 19 blocked: 3
+List: EasyChina Domain google.com/ TotalReqs: 19 blocked: 0
+Running http://facebook.com/
+List: EasyList Domain facebook.com/ TotalReqs: 35 blocked: 0
+List: EasyPrivacy Domain facebook.com/ TotalReqs: 35 blocked: 0
+List: EasyChina Domain facebook.com/ TotalReqs: 35 blocked: 0
+Running http://youtube.com/
+List: EasyList Domain youtube.com/ TotalReqs: 49 blocked: 3
+List: EasyPrivacy Domain youtube.com/ TotalReqs: 49 blocked: 0
+List: EasyChina Domain youtube.com/ TotalReqs: 49 blocked: 0
+Running http://yahoo.com/
+List: EasyList Domain yahoo.com/ TotalReqs: 41 blocked: 0
+List: EasyPrivacy Domain yahoo.com/ TotalReqs: 41 blocked: 1
+List: EasyChina Domain yahoo.com/ TotalReqs: 41 blocked: 0
+Running http://baidu.com/
+List: EasyList Domain baidu.com/ TotalReqs: 1 blocked: 0
+List: EasyPrivacy Domain baidu.com/ TotalReqs: 1 blocked: 0
+List: EasyChina Domain baidu.com/ TotalReqs: 1 blocked: 0
+Running http://wikipedia.org/
+List: EasyList Domain wikipedia.org/ TotalReqs: 16 blocked: 0
+List: EasyPrivacy Domain wikipedia.org/ TotalReqs: 16 blocked: 0
+List: EasyChina Domain wikipedia.org/ TotalReqs: 16 blocked: 0
+Running http://live.com/
+List: EasyList Domain live.com/ TotalReqs: 20 blocked: 0
+List: EasyPrivacy Domain live.com/ TotalReqs: 20 blocked: 1
+List: EasyChina Domain live.com/ TotalReqs: 20 blocked: 1
+Running http://twitter.com/
+List: EasyList Domain twitter.com/ TotalReqs: 20 blocked: 0
+List: EasyPrivacy Domain twitter.com/ TotalReqs: 20 blocked: 0
+List: EasyChina Domain twitter.com/ TotalReqs: 20 blocked: 0
+Running http://qq.com/
+List: EasyList Domain qq.com/ TotalReqs: 189 blocked: 4
+List: EasyPrivacy Domain qq.com/ TotalReqs: 189 blocked: 38
+List: EasyChina Domain qq.com/ TotalReqs: 189 blocked: 2
+Running http://amazon.com/
+List: EasyList Domain amazon.com/ TotalReqs: 218 blocked: 8
+List: EasyPrivacy Domain amazon.com/ TotalReqs: 218 blocked: 6
+List: EasyChina Domain amazon.com/ TotalReqs: 218 blocked: 3
